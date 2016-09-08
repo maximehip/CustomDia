@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = customdia;
+	cell = PSLinkCell;
+	detail = customdiaListController;
+	icon = customdia.png;
+	isController = 1;
+	label = customdia;
+    };
+}

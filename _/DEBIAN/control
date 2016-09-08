@@ -1,0 +1,9 @@
+Package: com.maximehip.customdia
+Name: CustomDia
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak!
+Author: maximehip
+Section: Tweaks
+Version: 0.0.1-144
+Installed-Size: 376
